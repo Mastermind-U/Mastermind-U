@@ -1,6 +1,6 @@
 <h1 align="center">I'm Yegor
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Python software engineer, from Russia 🇷🇺</h3>
+<h3 align="center">Python software engineer, from Russia</h3>
 <h3 align="center">Experienced since Q1 2019</h3>
 
 <div class="container" align="center">
