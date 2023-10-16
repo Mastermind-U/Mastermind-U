@@ -3,6 +3,10 @@
 <h3 align="center">Python software engineer, from Russia</h3>
 <h3 align="center">Experienced since Q1 2019</h3>
 
+<h2>🏆 Trophy</h2>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mastermind-U&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <div class="container" align="center">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mastermind-U&show_icons=true&theme=radical)
@@ -26,10 +30,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mastermind-U&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-<h2>🏆 Trophy</h2>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mastermind-U&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mastermind-U)](https://git.io/streak-stats)
 
